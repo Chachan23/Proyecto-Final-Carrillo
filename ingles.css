@@ -1,0 +1,67 @@
+
+
+body{
+background: #90C8C3;
+}
+.cabecera {
+background-image:
+url("https://png.pngtree.com/background/20210709/original/pngtree-blue-simple-solid-color-background-color-picture-image_908418.jpg");
+background-repeat: no repeat; background-position-x: center;
+background-position-y: left; background-size: 133px; width: 1330px;
+height: 100px; border: 1px solid #999999; padding: 1px; text-align: center;
+}
+.menu, a{
+background-color: #ABDBA1;
+padding-top: auto; padding-bottom: auto;
+margin: 5px; color: black;
+}
+h1{
+text-align: center; font-family: georgia;
+color: #2E6C00;
+}
+h2{
+text-align: center; font-family: comic sans ms;
+color: #2E6C00;
+}
+li h4{
+font-size: 18px; color: #2E6C00;
+font-family: arial;
+}
+li h3{
+font-size: 20px; color: #2E6C00;
+font-family: arial;
+}
+li img{
+display: block; margin: auto;
+height: 190px; width: 240px;
+}
+.articulo{
+background-color: #BAE799; width: 930px;
+height: 1390px; border: 1px solid #999999;
+padding-left: 50px; padding-right: 50px;
+display: inline-block; float: right;
+font-size: 18px; font-family: sprectral;
+}
+table{
+width: 100%; border: 1px solid #999999;
+background: #DFFFC7;
+}
+th,td{
+border: 1px solid #999999;
+background: #DFFFC7;
+}
+.aparte{
+width: 250px; height: 1390px;
+border: 1px solid #999999;
+background: #A8E57B;
+float: left;
+}
+ul{
+padding: 30px;
+}
+.footer{
+float: right; width: 1231px;
+height: 100px; border: 1px solid #999999;
+background: #7EAD59; color: #235000;
+display: inline-block; font-family: calibri;
+}

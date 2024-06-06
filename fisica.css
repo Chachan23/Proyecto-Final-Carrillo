@@ -1,0 +1,66 @@
+body{
+background: #DEFFC5;
+}
+.cabecera {
+background-image:
+url("https://www.todofondos.net/wp-content/uploads/fondos-de-pantalla-de-color-verde-liso.-fondo-para-movil-verde-liso-767x1024.jpg");
+background-repeat: no repeat; background-position-x: center;
+background-position-y: left; background-size: 1330px; width: 1330px;
+height: 150px; border: 1px solid #999999; padding: 1px; text-align: center;
+}
+.menu, a{
+background-color: #CBFFA3;
+padding-top: auto; padding-bottom: auto;
+margin: 5px; color: black;
+}
+h1{
+text-align: center; font-family: georgia;
+color: #2E6C00;
+}
+h2{
+text-align: center; font-family: comic sans ms;
+color: #2E6C00;
+}
+li h4{
+font-size: 18px; color: #2E6C00;
+font-family: arial;
+}
+li h3{
+font-size: 20px; color: #2E6C00;
+font-family: arial;
+}
+li img{
+display: block; margin: auto;
+height: 190px; width: 240px;
+}
+.articulo{
+background-color: #BAE799; width: 1009px;
+height: 790px; border: 1px solid #999999;
+padding-left: 15px; padding-right: 15px;
+display: inline-block; float_ right;
+font-size: 18px; font-family: sprectral;
+}
+table{
+width: 100%; border: 1px solid #999999;
+background: #DFFFC7;
+}
+th,td{
+border: 1px solid #999999;
+background: #DFFFC7;
+}
+.aparte{
+width: 280px; height: 790px;
+border: 1px solid #999999;
+background: #A8E57B;
+float: left;
+}
+ul{
+padding: 30px;
+}
+.footer{
+float: none; width: 1330px;
+height: 76px; border: 1px solid #999999;
+background: #7EAD59; color: #235000;
+display: inline-block; font-family: calibri;
+}
+

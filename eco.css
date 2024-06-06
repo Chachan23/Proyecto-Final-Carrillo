@@ -1,0 +1,82 @@
+body{
+  background-color: palegreen;
+}
+header{
+  position: absolute;
+  top: 0%;
+  width: 100%;
+  height: 20%;
+  background-image: url(https://i.gifer.com/RlIx.gif);
+  color: white;
+  font-family: georgia;
+  text-shadow: greenyellow 2px 2px 2px;
+}
+menu{
+  position: absolute;
+  top: 15%;
+  width: 97%;
+  height: 5%;
+  background-image: url(https://img.freepik.com/vector-gratis/vector-fondo-decorativo-textura-acuarela-suave-colorido_1055-12347.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1714089600&semt=ais);
+  font-family: georgia;
+}
+main{
+  position: absolute;
+  top: 25%;
+  right: 0%;
+  width: 78%;
+  height: 650px;
+  background-image: url(https://i.pinimg.com/originals/fc/53/ff/fc53ff68e3b65b0bbd83fb71510cf3dd.gif);
+  background-size: 100%;
+  text-align: justify;
+  font-family: garamond;
+  color: #5453A6;
+}
+aside{
+  position: absolute;
+  top: 25%;
+  width: 20%;
+  height: 650px;
+  background-image: url(https://img.freepik.com/vector-gratis/vector-fondo-decorativo-textura-acuarela-suave-colorido_1055-12347.jpg?size=626&ext=jpg&ga=GA1.1.632798143.1714089600&semt=ais);
+  background-size: 100%;
+}
+footer{
+  position: absolute;
+  bottom: -35%;
+  width: 100%;
+  height: 10%;
+  background-image: url(https://www.todofondos.net/wp-content/uploads/728x1100-Fondo-de-pantalla-Gardel-Pastel-Green-rosa-palido-crema-helecho-verde-199x300.jpg);
+  font-family: georgia;
+}
+a{
+  text-decoration: underline;
+  color: #7B68EE;
+}
+img{
+  margin: 10px;
+}
+p{
+  margin: 10px;
+  color: ;
+}
+table{
+  width: 70%;
+  border: 4px solid white;
+  border-collapse: collapse;
+}
+th{
+  width: 50%;
+  background-color: azure;
+  border: 4px solid white;
+  border-collapse: collapse;
+}
+td{
+  width: 50%;
+  border: 4px solid white;
+  border-collapse: collapse;
+  background-color: ghostwhite;
+}
+footer{
+  color: darkolivegreen;
+  font-family: courier;
+}
+
